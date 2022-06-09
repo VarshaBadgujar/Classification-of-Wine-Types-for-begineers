@@ -1,1 +1,1 @@
-# Classification-of-Wine-Types-for-begineers
+# Classification-of-Wine-Types
